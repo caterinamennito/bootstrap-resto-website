@@ -28,11 +28,11 @@ Attention: toutes les images sont libres de droits!
 
 # Liens utiles :
 
-Lien des consignes: (https://github.com/becodeorg/BXL-Johnson-3.9/blob/master/Projets/Restaurant_Bootstrap/readme.md)
+Lien des consignes: https://github.com/becodeorg/BXL-Johnson-3.9/blob/master/Projets/Restaurant_Bootstrap/readme.md
 
-Lien github page: (https://caterinamennito.github.io/bootstrap-resto-website/index.html)
+Lien github page: https://caterinamennito.github.io/bootstrap-resto-website/index.html
 
-Lien repository github : (https://github.com/caterinamennito/bootstrap-resto-website/edit/master/)
+Lien repository github : https://github.com/caterinamennito/bootstrap-resto-website/edit/master/
 
 Aperçu du site:
-![erçu du site](/assets/img/Screenshot.png?raw=true "Screenshot")
+![aperçu du site](/assets/img/Screenshot.png?raw=true "Screenshot")
