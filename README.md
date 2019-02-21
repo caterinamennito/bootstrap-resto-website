@@ -24,5 +24,6 @@ Lien github page: (https://caterinamennito.github.io/bootstrap-resto-website/ind
 Lien repository github : (https://github.com/caterinamennito/bootstrap-resto-website/edit/master/)
 
 Aperçu du site:
+![erçu du site](/assets/img/Screenshot.png?raw=true "Screenshot")
 
-![Aperçu du site] (https://github.com/caterinamennito/bootstrap-resto-website/blob/master/assets/img/Screenshot.png)
+
