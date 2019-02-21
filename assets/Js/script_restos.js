@@ -10,8 +10,13 @@ function aujourdHui() {
       var s = d.getDay();
       var h = d.getHours();
       var min = d.getMinutes();
+      if (min<10){
+        min = "0" + min
+      }
+      
       var jours = new Array("dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi");
       var mois = new Array("janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre");
+
 
       var date = jours[s] + " "+ j + " " + mois[m] + " " + y;
       var heure = h + "h" + min;

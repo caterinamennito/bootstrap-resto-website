@@ -3,6 +3,7 @@
 
 window.onload= getName();
 
+
 function getName() {
   var n, q = 'Quel est ton prénom?';
   if (!window.sessionStorage) { // if sessionStorage not supported
@@ -13,6 +14,12 @@ function getName() {
   if (!n) {
       n = window.prompt(q);
       window.sessionStorage.setItem('name', n);
+      if (n === null){
+        var txt =  "Bienvenue ";
+      }
+      else {
+        var txt = "Bienvenue " + n;
+      }
   }
   //document.getElementById("result").innerHTML = "Bienvenue " + n ;
   //return n;
@@ -20,12 +27,7 @@ function getName() {
   var i = 0;
   var speed = 70;
 
-  if (n != null){
-    var txt =  "Bienvenue " + n ;
-  }
-  else {
-    var txt = "Bienvenue";
-  }
+
 
   function typeWriter() {
     if (i < txt.length) {
@@ -34,6 +36,7 @@ function getName() {
       setTimeout(typeWriter, speed);
     }
   }
+
 
 
     typeWriter(txt, speed);

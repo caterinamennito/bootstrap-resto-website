@@ -1,6 +1,6 @@
 # bootstrap-resto-website
 
-Réalisation d'un site vitrine d'une franchise de restaurants. Exercice au sein de la formation Be Code
+Réalisation d'un site vitrine d'une franchise de restaurants fictive. Exercice au sein de la formation Be Code
 
 # Realisé par :
 
@@ -21,6 +21,11 @@ Be Code Bruxelles
     -  CSS
     -  JAVASCRIPT
 
+# Objectis de l'exercice :
+Réalisation d'un site responsive à l'aide du Framework Bootstrap.
+Attention: toutes les images sont libres de droits!
+
+
 # Liens utiles :
 
 Lien des consignes: (https://github.com/becodeorg/BXL-Johnson-3.9/blob/master/Projets/Restaurant_Bootstrap/readme.md)
@@ -31,5 +36,3 @@ Lien repository github : (https://github.com/caterinamennito/bootstrap-resto-web
 
 Aperçu du site:
 ![erçu du site](/assets/img/Screenshot.png?raw=true "Screenshot")
-
-
