@@ -152,9 +152,14 @@ iframe {
 }
 
 #intro {
-  padding-left: 7%;
+  padding-left: 5%;
 }
 #contacts form {
   margin-left: 7%;
   margin-top: 2%;
+}
+
+#contacts label {
+  font-weight: 800;
+  font-size: 20px;
 }
