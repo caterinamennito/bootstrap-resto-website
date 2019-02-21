@@ -19,7 +19,13 @@ function getName() {
 
   var i = 0;
   var speed = 70;
-  var txt =  "Bienvenue " + n ;
+
+  if (n != null){
+    var txt =  "Bienvenue " + n ;
+  }
+  else {
+    var txt = "Bienvenue";
+  }
 
   function typeWriter() {
     if (i < txt.length) {
