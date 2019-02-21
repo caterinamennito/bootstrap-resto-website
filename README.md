@@ -6,7 +6,8 @@ Réalisation d'un site vitrine d'une franchise de restaurants fictive. Exercice 
 
 Caterina Mennito   
 
-GitHub Username: caterinamennito
+GitHub Username: caterinamennito  
+
 Profile GitHub: https://github.com/caterinamennito
 
 # Date :
