@@ -17,8 +17,12 @@ Be Code Bruxelles
 
 # Liens utiles :
 
-[Lien des consignes] (https://github.com/becodeorg/BXL-Johnson-3.9/blob/master/Projets/Restaurant_Bootstrap/readme.md)
+Lien des consignes: (https://github.com/becodeorg/BXL-Johnson-3.9/blob/master/Projets/Restaurant_Bootstrap/readme.md)
 
-[Lien github page] (https://caterinamennito.github.io/bootstrap-resto-website/index.html)
+Lien github page: (https://caterinamennito.github.io/bootstrap-resto-website/index.html)
 
-[Aperçu du site] (assets/img/screenshot.png)
+Lien repository github : (https://github.com/caterinamennito/bootstrap-resto-website/edit/master/)
+
+Aperçu du site:
+
+![Aperçu du site] (https://github.com/caterinamennito/bootstrap-resto-website/blob/master/assets/img/Screenshot.png)
