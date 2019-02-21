@@ -4,7 +4,8 @@ Réalisation d'un site vitrine d'une franchise de restaurants. Exercice au sein 
 
 # Realisé par :
 
-Caterina Mennito 
+Caterina Mennito   
+
 GitHub Username: caterinamennito
 
 # Date :
