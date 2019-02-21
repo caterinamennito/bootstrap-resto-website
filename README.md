@@ -21,7 +21,7 @@ Be Code Bruxelles
     -  CSS
     -  JAVASCRIPT
 
-# Objectis de l'exercice :
+# Objectifs de l'exercice :
 Réalisation d'un site responsive à l'aide du Framework Bootstrap.
 Attention: toutes les images sont libres de droits!
 
