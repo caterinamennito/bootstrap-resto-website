@@ -2,6 +2,11 @@
 
 Réalisation d'un site vitrine d'une franchise de restaurants. Exercice au sein de la formation Be Code
 
+# Realisé par :
+
+Caterina Mennito 
+GitHub Username: caterinamennito
+
 # Date :
 
 Effectué la semaine du 18 au 21 février 2019
