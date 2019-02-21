@@ -7,6 +7,7 @@ Réalisation d'un site vitrine d'une franchise de restaurants fictive. Exercice 
 Caterina Mennito   
 
 GitHub Username: caterinamennito
+Profile GitHub: https://github.com/caterinamennito
 
 # Date :
 
@@ -31,8 +32,6 @@ Attention: toutes les images sont libres de droits!
 Lien des consignes: https://github.com/becodeorg/BXL-Johnson-3.9/blob/master/Projets/Restaurant_Bootstrap/readme.md
 
 Lien github page: https://caterinamennito.github.io/bootstrap-resto-website/index.html
-
-Lien repository github : https://github.com/caterinamennito/bootstrap-resto-website/edit/master/
 
 Aperçu du site:
 ![aperçu du site](/assets/img/Screenshot.png?raw=true "Screenshot")
