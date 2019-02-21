@@ -1,0 +1,160 @@
+
+body {
+  width: 100%;
+
+}
+
+
+
+#index h1 {
+    font-family: 'Staatliches', cursive;
+    font-size: 80px;
+    text-align: left;
+    margin-left: -10%;
+    display: inline-block;
+
+}
+
+#carte h1, #restaurants h1, #contacts h1, #photos h1 {
+  font-family: 'Staatliches', cursive;
+  font-size: 60px;
+  text-align: left;
+  margin-left: -10%;
+  margin-top: -10%;
+  display: inline-block;
+}
+
+
+#logo {
+
+  position: relative;
+  animation-duration: 2s;
+  animation-name: slidein;
+  width: 190px;
+}
+
+#logo2, #logo3 {
+    width: 110px;
+    margin-top: -19%;
+}
+
+@keyframes slidein {
+    from {
+        top: 100px;
+    }
+    to {
+        top: 0px;
+    }
+}
+
+
+#index #bento{
+  width:102%;
+  margin-top: 1%;
+  margin-left: -1%;
+  filter: brightness(50%);
+  -webkit-transition: brightness 2s; /* Safari */
+ transition: brightness 2s;
+}
+
+#index #bento:hover {
+  filter: brightness(100%);
+}
+
+.jumbotron {
+  background-image: url("../img/rice.jpg");
+  background-size: cover;
+}
+
+#carte .jumbotron{
+  height: 3%;
+}
+
+
+#index li, #carte li, #photos li, #restaurants li, #contacts li, h3 {
+  font-family: 'Staatliches', cursive;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+h2 {
+  font-family: 'Staatliches', cursive;
+  font-size: 50px;
+  color:red;
+  text-align: center;
+}
+
+
+#photos img:hover{
+  z-index: 2;
+  transform: scale(1.3);
+}
+
+#textImage {
+  margin-top: 3%;
+  text-align: justify;
+
+}
+
+@keyframes slideright {
+    from {
+        right: 200px;
+    }
+    to {
+        right: 0px;
+    }
+}
+
+#textImage h2, #textImage p {
+  padding-top: 10%;
+  animation-name: slideright;
+  position: relative;
+  animation-duration: 3s;
+
+}
+
+#accordion img {
+  margin-left: 12%;
+}
+
+
+#contacts::after {
+  content: "";
+  background: url(../img/mt-fuji.jpg)  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.7;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding-bottom: 10%;
+  position: absolute;
+  z-index: -1;
+}
+
+iframe {
+  margin-bottom: 10%;
+}
+
+
+
+ #contacts select{
+   margin-top: 2%;
+ }
+
+#msg {
+  margin-left: 40%;
+  margin-top: 2%;
+}
+
+#intro {
+  padding-left: 7%;
+}
+#contacts form {
+  margin-left: 7%;
+  margin-top: 2%;
+}
