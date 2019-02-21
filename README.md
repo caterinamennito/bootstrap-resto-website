@@ -2,20 +2,20 @@
 
 Réalisation d'un site vitrine d'une franchise de restaurants. Exercice au sein de la formation Be Code
 
-#Date :
+# Date :
 
 Effectué la semaine du 18 au 21 février 2019
 
-#Lieu
+# Lieu :
 Be Code Bruxelles
 
-#Langages utilisés :
+# Langages utilisés :
 
     -  HTML
     -  CSS
     -  JAVASCRIPT
 
-#Liens utiles :
+# Liens utiles :
 
 [Lien des consignes] (https://github.com/becodeorg/BXL-Johnson-3.9/blob/master/Projets/Restaurant_Bootstrap/readme.md)
 
