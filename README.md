@@ -25,5 +25,4 @@ Lien repository github : (https://github.com/caterinamennito/bootstrap-resto-web
 
 Aperçu du site:
 
-![Aperçu du site] (https://caterinamennito.github.io/bootstrap-resto-website/index.html)  
-
+![Aperçu du site] (https://github.com/caterinamennito/bootstrap-resto-website/blob/master/assets/img/Screenshot.png)
