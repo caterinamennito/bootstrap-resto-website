@@ -1,5 +1,8 @@
 {
- "name": "App",
+ "name": "Bento Box",
+ "short_name": "B-Box",
+ "theme_color": "#ffffff",
+ "background_color": "white",
  "icons": [
   {
    "src": "\/bootstrap-resto-website\/assets\/favicon\/android-icon-36x36.png",
