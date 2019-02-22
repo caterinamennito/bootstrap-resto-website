@@ -1,5 +1,6 @@
 {
  "name": "Bento Box",
+"start_url": "/bootstrap-resto-website/index.html",
  "short_name": "B-Box",
  "display" : "standalone",
  "theme_color": "#ffffff",
@@ -43,9 +44,9 @@
  },
  {
   "src": "\/bootstrap-resto-website\/assets\/favicon\/android-icon-512x512.png",
-  "sizes": "192x192",
+  "sizes": "512x512",
   "type": "image\/png",
-  "density": "4.0"
+  "density": "5.0"
  }
 
  ]
