@@ -1,6 +1,7 @@
 {
  "name": "Bento Box",
  "short_name": "B-Box",
+ "display" : "standalone",
  "theme_color": "#ffffff",
  "background_color": "white",
  "icons": [
